@@ -1,0 +1,14 @@
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\ExamT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\ExamT3.AssemblyInfoInputs.cache
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\ExamT3.AssemblyInfo.cs
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\ExamT3.csproj.CoreCompileInputs.cache
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\bin\Debug\net8.0\ExamT3.exe
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\bin\Debug\net8.0\ExamT3.deps.json
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\bin\Debug\net8.0\ExamT3.runtimeconfig.json
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\bin\Debug\net8.0\ExamT3.dll
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\bin\Debug\net8.0\ExamT3.pdb
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\ExamT3.dll
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\refint\ExamT3.dll
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\ExamT3.pdb
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\ExamT3.genruntimeconfig.cache
+C:\Users\luisr\Downloads\INISCO-8568\ExamT3\ExamT3\obj\Debug\net8.0\ref\ExamT3.dll
