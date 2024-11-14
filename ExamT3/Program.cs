@@ -1,22 +1,27 @@
-﻿string opcion;
-
-void MostrarSeleccion()
+﻿using ExamT3;
+public class Program
 {
+    private static Cita[] citas = new Cita[100];
+    private static int contadorCitas = 0;
 
-    Console.WriteLine("a)++++Crear++++\n");
-    Console.WriteLine("b)++++Listar++++\n");
-    Console.WriteLine("+++Modificar Masivo+++\n);");
-    Console.WriteLine("d)++++Fin++++\n");
-    Console.WriteLine("Seleccione una opcion: ");
-}
-bool ContinuarPrograma=true;
-while (ContinuarPrograma)
-{
-MostrarSeleccion();
-    opcion=Console.ReadLine();
-    switch (opcion)
+    public static void Main()
     {
-        case "a":
-            Console.WriteLine("Ingrese su numero: ");
-    }
-}
+        int opcion;
+        do
+        {
+            Console.WriteLine("\nMenú de opciones:");
+            Console.WriteLine("1. Crear Cita");
+            Console.WriteLine("2. Listar Citas");
+            Console.WriteLine("3. Modificar Universidades");
+            Console.WriteLine("4. Fin");
+            Console.Write("Seleccione una opción: ");
+
+            if (!int.TryParse(Console.ReadLine(), out opcion))
+            {
+                Console.WriteLine("Opción no válida, ingrese un número.");
+                continue;
+            }
+        
+    
+
+
