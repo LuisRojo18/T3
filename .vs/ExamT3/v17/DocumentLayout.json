@@ -15,10 +15,6 @@
       "RelativeMoniker": "D:0:0:{138FBC1E-68A8-48A8-95A1-9252E22BB26C}|ExamT3\\ExamT3.csproj|solutionrelative:examt3\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{138FBC1E-68A8-48A8-95A1-9252E22BB26C}|ExamT3\\ExamT3.csproj|c:\\users\\luisr\\downloads\\inisco-8568\\examt3\\examt3\\citautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{138FBC1E-68A8-48A8-95A1-9252E22BB26C}|ExamT3\\ExamT3.csproj|solutionrelative:examt3\\citautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{138FBC1E-68A8-48A8-95A1-9252E22BB26C}|ExamT3\\ExamT3.csproj|c:\\users\\luisr\\downloads\\inisco-8568\\examt3\\examt3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{138FBC1E-68A8-48A8-95A1-9252E22BB26C}|ExamT3\\ExamT3.csproj|solutionrelative:examt3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -42,21 +38,7 @@
               "RelativeToolTip": "ExamT3\\ExamT3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-14T12:57:57.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CitaUtil.cs",
-              "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\INISCO-8568\\ExamT3\\ExamT3\\CitaUtil.cs",
-              "RelativeDocumentMoniker": "ExamT3\\CitaUtil.cs",
-              "ToolTip": "C:\\Users\\luisr\\Downloads\\INISCO-8568\\ExamT3\\ExamT3\\CitaUtil.cs",
-              "RelativeToolTip": "ExamT3\\CitaUtil.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:21:51.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T12:57:57.538Z"
             },
             {
               "$type": "Document",
@@ -68,12 +50,11 @@
               "RelativeToolTip": "ExamT3\\Citas.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:58:28.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T12:58:28.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\luisr\\Downloads\\INISCO-8568\\ExamT3\\ExamT3\\Estudiante.cs",
               "RelativeDocumentMoniker": "ExamT3\\Estudiante.cs",
@@ -91,7 +72,7 @@
               "RelativeDocumentMoniker": "ExamT3\\Program.cs",
               "ToolTip": "C:\\Users\\luisr\\Downloads\\INISCO-8568\\ExamT3\\ExamT3\\Program.cs",
               "RelativeToolTip": "ExamT3\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T12:56:30.714Z",
               "EditorCaption": ""
